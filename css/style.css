@@ -1,0 +1,28 @@
+.inputPesquisa {
+
+	padding-left: 23px;     
+	padding-top: 2px;       
+    
+	height:20px;                                              
+	background-image:url('../img/lupa.png');
+	background-repeat:no-repeat;
+}
+
+.background-corredor {
+    background-image: url('../img/corredor.jpg');
+    background-repeat: no-repeat;   
+}
+
+.background-insta {
+	background-color: black;		
+}
+
+.background-face {
+	background-color: black;
+	margin-top: 2px;
+}
+
+.background-twit {
+	background-color: black;
+	margin-top: 2px;
+}
